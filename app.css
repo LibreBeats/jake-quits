@@ -109,8 +109,8 @@ div.container {
   }
 }
 .flex .progress.dark {
-  background: white;
-  color: #ffbb00;
+  background: black;
+  color: #fff;
   padding: 0.5rem;
 }
 @media (min-width: 780px) {
@@ -154,7 +154,7 @@ svg circle {
 }
 svg circle.prog {
   will-change: auto;
-  stroke: #000;
+  stroke: #fff;
 }
 svg circle.bg {
   stroke: rgba(0, 0, 0, 0.1);
