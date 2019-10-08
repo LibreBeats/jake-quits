@@ -90,6 +90,7 @@ div.container {
   }
 }
 
+
 .flex {
   display: flex;
   flex-wrap: wrap;
@@ -176,4 +177,8 @@ svg circle.bg {
 .progress .right {
   flex: 1;
   margin-left: 0.5rem;
+}
+
+.button {
+    display: block;
 }
