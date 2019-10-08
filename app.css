@@ -181,5 +181,6 @@ svg circle.bg {
 
 .button {
     display: block;
-    align: center;
+    position: fixed;
+    left: 50%
 }
