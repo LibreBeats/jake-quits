@@ -68,3 +68,7 @@ function updatePies() {
   </svg>`;
   });
 }
+
+function reset() {
+    data.time = new Date().getTime();
+}
