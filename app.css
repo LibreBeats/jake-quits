@@ -178,9 +178,3 @@ svg circle.bg {
   flex: 1;
   margin-left: 0.5rem;
 }
-
-.button {
-    display: block;
-    position: fixed;
-    left: 50%
-}
