@@ -37,7 +37,7 @@ header p {
   margin: 1rem 0 0;
 }
 a {
-  color: black;
+  color: white;
 }
 
 h1 {
@@ -109,7 +109,7 @@ div.container {
   }
 }
 .flex .progress.dark {
-  background: black;
+  background: white;
   color: #ffbb00;
   padding: 0.5rem;
 }
